@@ -11,7 +11,7 @@ const anmol = {
         IDE: {"Visual-Studio","Visual-Studio-Code(NET)","IntelliJ IDEA"},
         databases: ["MySql"],
     },
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "If there is an error in your program, assume it, you are on the right track."
 };
 ```
 
