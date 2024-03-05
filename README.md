@@ -5,8 +5,7 @@
 
 ```javascript
 const anmol = {
-    code: ["Python", ".NET", "Java", "C++", "C#"]
-    askMeAbout: ["dev","app dev"],
+    code: ["Python", ".NET", "Java", "C++", "C#"],
     technologies: {
         mobileApp: ["Android Studio"],
         IDE: {"Visual-Studio","Visual-Studio-Code(NET)","IntelliJ IDEA"},
