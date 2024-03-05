@@ -1,5 +1,7 @@
-<h2>I'm AlexDev <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi!!, I'm AlexDev <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
+- 🌱 I’m currently learning **FP dam in spain**
+- 📫 How to reach me: **moronturielalejandro@gmail.com**
 
 ```javascript
 const anmol = {
