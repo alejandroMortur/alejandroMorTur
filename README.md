@@ -1,6 +1,6 @@
 <h2>Hi!!, I'm AlexDev <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-- 🌱 I’m currently learning **FP dam in spain**
+- 🌱 I’m currently learning **FP daw in spain**
 - 📫 How to reach me: **moronturielalejandro@gmail.com**
 
 ```javascript
