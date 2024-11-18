@@ -26,4 +26,3 @@ const anmol = {
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandromortur&show_icons=true&locale=en" alt="alejandromortur" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandromortur&" alt="alejandromortur" /></p>
