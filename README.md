@@ -5,11 +5,11 @@
 
 ```javascript
 const anmol = {
-    code: ["Python", ".NET", "Java", "C#"],
+    code: ["Python", "HTML", "CSS", "JavaScript","TypeScript", "C"],
     technologies: {
-        mobileApp: ["Android Studio"],
-        IDE: {"Visual-Studio","Visual-Studio-Code(NET)","IntelliJ IDEA"},
-        databases: ["MySql"],
+        webDev: ["Frontend", "Backend"],
+        IDE: ["Visual Studio Code"],
+        databases: ["MySql"]
     },
     funFact: "If there is an error in your program, assume it, you are on the right track."
 };
