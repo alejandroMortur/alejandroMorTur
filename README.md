@@ -5,11 +5,13 @@
 
 ```javascript
 const anmol = {
-    code: ["Python", "HTML", "CSS", "JavaScript","TypeScript", "C"],
+    code: ["Python", "HTML", "CSS", "JavaScript","TypeScript", "C", "PHP"],
     technologies: {
         webDev: ["Frontend", "Backend"],
         IDE: ["Visual Studio Code"],
-        databases: ["MySql"]
+        Databases: ["MySql","PostgreSQL"],
+        Framework: ["Astro","React","Angular"]
+        CSS_Framework: ["Tailwind","Boostrap"]
     },
     funFact: "If there is an error in your program, assume it, you are on the right track."
 };
