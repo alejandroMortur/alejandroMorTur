@@ -1,4 +1,6 @@
-<h2>Hi!!, I'm AlexDev <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>
+    Hi!!, I'm AlexDev <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h2>
 
 - 🌱 I’m currently learning **FP daw in spain**
 - 📫 How to reach me: **moronturielalejandro@gmail.com**
@@ -73,9 +75,14 @@ const anmol = {
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=alejandroMortur&style=flat-square&color=blue" />
+
 <br></br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroMortur&show_icons=true&locale=en&layout=compact" alt="AlexDev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandroMortur&show_icons=true&locale=en" alt="AlexDev" /></p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandroMortur&theme=github-dark&hide_border=true" />
+</p>
