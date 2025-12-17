@@ -79,10 +79,10 @@ const anmol = {
 
 <br></br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroMortur&show_icons=true&locale=en&layout=compact" alt="AlexDev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandroMortur&show_icons=true&locale=en" alt="AlexDev" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroMortur&show_icons=true&locale=en&layout=compact" height="180" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alejandroMortur&theme=github_dark&utcOffset=1" height="180" />
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandroMortur&theme=github-dark&hide_border=true" />
 </p>
+
