@@ -5,6 +5,14 @@
 - 🌱 I’m currently learning **FP daw in spain**
 - 📫 How to reach me: **moronturielalejandro@gmail.com**
 
+<p>
+  <a align="left" href="https://www.linkedin.com/in/alejandro-morón-turiel-9798b1299/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Morón%20Turiel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=alejandroMortur&style=flat-square&color=blue" />
+</p>
+
+
 ```javascript
 const anmol = {
     code: ["Python", "HTML", "CSS", "JavaScript","TypeScript", "C", "PHP"],
@@ -74,8 +82,6 @@ const anmol = {
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=alejandroMortur&style=flat-square&color=blue" />
 
 <br></br>
 
