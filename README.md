@@ -85,7 +85,6 @@ const anmol = {
 
 <br></br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroMortur&show_icons=true&locale=en&layout=compact" height="180" />
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alejandroMortur&theme=github_dark&utcOffset=1" height="180" />
 
 <p align="center">
