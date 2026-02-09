@@ -18,7 +18,7 @@
 <br clear="all" />
 
 <!-- Banner 1 -->
-<div align="center" style="margin: 20px 0; max-height: 300px; overflow: hidden; border-radius: 10px;">
+<div align="center" style="margin: 20px 0; overflow: hidden; border-radius: 10px;">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD1vMV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Logic" width="100%" style="width: 100%; height:300px; display: block; filter: brightness(0.9);" />
 </div>
 
@@ -34,7 +34,7 @@
 <br clear="all" />
 
 <!-- Banner 2 -->
-<div align="center" style="margin: 20px 0; max-height: 200px; overflow: hidden; border-radius: 10px;">
+<div align="center" style="margin: 20px 0; overflow: hidden; border-radius: 10px;">
   <img src="https://i.pinimg.com/originals/7f/d6/d3/7fd6d34e547b77a9531e2da6e7b6f060.gif" alt="Purple Aesthetic Coding" width="100%" style="width: 100%;  height:300px display: block; filter: brightness(0.9);" />
 </div>
 
