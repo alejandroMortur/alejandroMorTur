@@ -85,21 +85,26 @@
 <br />
 
 <div align="center" style="max-width: 850px; margin: 0 auto;">
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandroMortur&bg_color=141321&color=A960FF&line=A960FF&point=FFFFFF&hide_border=true" alt="Activity Graph" style="width: 100%; border-radius: 10px;" />
-  </p>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <div style="flex: 1; min-width: 300px;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alejandroMortur&hide_border=true&bg_color=141321&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" style="border-radius: 10px;" />
-    </div>
-    <div style="flex: 1; min-width: 300px;">
-      <img src="https://streak-stats.demolab.com?user=alejandroMortur&hide_border=true&background=141321&ring=A960FF&currStreakLabel=A960FF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&fire=A960FF" alt="Streak Stats" style="border-radius: 10px;" />
-      <br/>
-      <br/>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alejandroMortur&show_icons=true&hide_border=true&bg_color=141321&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="Github Stats" style="border-radius: 10px;" />
-    </div>
-  </div>
+<!-- Bento Grid: Top Section -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<!-- Top Left: GitHub Stats & Streak Stats -->
+<div style="flex: 1; min-width: 300px;">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alejandroMortur&show_icons=true&hide_border=true&bg_color=141321&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="Github Stats" style="width: 100%; border-radius: 10px; margin-bottom: 15px;" />
+<img src="https://streak-stats.demolab.com?user=alejandroMortur&hide_border=true&background=141321&ring=A960FF&currStreakLabel=A960FF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&fire=A960FF" alt="Streak Stats" style="width: 100%; border-radius: 10px;" />
+</div>
+
+<!-- Top Right: Top Languages -->
+<div style="flex: 1; min-width: 300px;">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alejandroMortur&hide_border=true&bg_color=141321&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" style="width: 100%; border-radius: 10px;" />
+</div>
+</div>
+
+<!-- Bento Grid: Bottom Section -->
+<div style="margin-top: 15px;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandroMortur&bg_color=141321&color=A960FF&line=A960FF&point=FFFFFF&hide_border=true" alt="Activity Graph" style="width: 100%; border-radius: 10px;" />
+</div>
+
 </div>
 <br clear="all" />
 
