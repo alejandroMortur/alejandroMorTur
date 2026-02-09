@@ -1,14 +1,12 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Hi!!%2C+I'm+AlexDev;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Hi!!%2C+I'm+AlexDev;Frontend Specialist;Accessibility+and+Performance;Open+Source+Enthusiast;Always+Learning..." alt="Typing SVG" />
 </div>
 
 <!-- Intro & Profile Image -->
 <h3>👋 About Me</h3>
 
-<img align="right" width="280" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Image" style="margin: 10px; max-width: 100%;" />
-
-<br>
+<img align="right" width="280" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Image" style="margin: 10px; max-width: 100%; margin-bottom: 30px;" />
 
 <ul>
   <li>🚀 transitioning from student to <b>Founder</b>, currently building my own startup in <i>Madrid</i>.</li>
@@ -18,9 +16,7 @@
   <li>💜 I believe in <b>Clean Code</b>, <b>User Experience</b>, and the color <i>Purple</i>.</li>
 </ul>
 
-<br />
-
-<div align="left">
+<div align="left" style="margin-top: 30px;">
   <a href="https://www.linkedin.com/in/alejandro-morón-turiel-9798b1299/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Morón%20Turiel-7938c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -28,22 +24,15 @@
   <a href="mailto:moronturielalejandro@gmail.com">
     <img src="https://img.shields.io/badge/Email-moronturielalejandro%40gmail.com-7938c2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <br />
-  <br />
-  <br />
-  <br />
-  <h3 align="left">💜 Daily Wisdom:</h3>
+
+  <h3 align="left" style="margin-top: 30px;">💜 Daily Wisdom:</h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=A960FF&width=435&lines=Success+is+the+sum+of+small+efforts%2C;repeated+day+in+and+day+out." alt="Quote" style="max-width: 100%;" />
 </div>
 
-<br clear="all" />
-
 <hr>
 
-<br />
-
 <!-- Tech Stack -->
-<h3 align="center">🛠️ Languages and Tools</h3>
+<h3 align="center" style="margin-top: 30px; margin-bottom: 30px;">🛠️ Languages and Tools</h3>
 
 <br>
 
@@ -52,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,astro,tailwind,bootstrap&theme=dark" />
 </p>
 
-<table align="center" border="0" cellspacing="0" cellpadding="10">
+<table align="center" border="0" cellspacing="0" cellpadding="10" style="margin-bottom: 30px;">
   <tr>
     <td align="center">
       <b>Backend</b><br/>
