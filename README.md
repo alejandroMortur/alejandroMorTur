@@ -1,93 +1,92 @@
-<h2>
-    Hi!!, I'm AlexDev <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-</h2>
+<!-- Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Hi!!%2C+I'm+AlexDev;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning..." alt="Typing SVG" />
+</div>
 
-- 🌱 I’m currently learning **FP daw in spain**
-- 📫 How to reach me: **moronturielalejandro@gmail.com**
+<!-- Intro & Profile Image -->
+<table align="center" style="border: none;">
+  <tr>
+    <td align="left" width="60%" style="border: none;">
+      <h3>👋 About Me</h3>
+      <ul>
+        <li>🚀 transitioning from student to <b>Founder</b>, currently building my own startup in <i>Madrid</i>.</li>
+        <li>📈 I follow the <b>Kaizen</b> philosophy: <i>continuous improvement</i>, 1% better every day.</li>
+        <li>⚡ Driven by <b>ambition</b> and the desire to build <i>products that matter</i>.</li>
+        <li>💡 Passionate about creating <b>scalable software</b> and <b>innovative solutions</b>.</li>
+        <li>💜 I believe in <b>Clean Code</b>, <b>User Experience</b>, and the color <i>Purple</i>.</li>
+      </ul>
+      <br />
+      <div align="left">
+        <a href="https://www.linkedin.com/in/alejandro-morón-turiel-9798b1299/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Morón%20Turiel-7938c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        <a href="mailto:moronturielalejandro@gmail.com">
+          <img src="https://img.shields.io/badge/Email-moronturielalejandro%40gmail.com-7938c2?style=for-the-badge&logo=gmail&logoColor=white"/>
+        </a>
+        <br />
+        <img src="https://komarev.com/ghpvc/?username=alejandroMortur&style=flat-square&color=blueviolet" />
+        <br />
+        <br />
+        <br />
+        <h3 align="left">💜 Daily Wisdom:</h3>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=A960FF&width=435&lines=Success+is+the+sum+of+small+efforts%2C;repeated+day+in+and+day+out." alt="Quote" />
+      </div>
+    </td>
+    <td align="center" width="40%" style="border: none;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Image" width="500" />
+    </td>
+  </tr>
+</table>
 
-<p>
-  <a align="left" href="https://www.linkedin.com/in/alejandro-morón-turiel-9798b1299/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Morón%20Turiel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=alejandroMortur&style=flat-square&color=blue" />
-</p>
+<hr>
 
+<br />
 
-```javascript
-const anmol = {
-    code: ["Python", "HTML", "CSS", "JavaScript","TypeScript", "C", "PHP"],
-    technologies: {
-        webDev: ["Frontend", "Backend"],
-        IDE: ["Visual Studio Code"],
-        Databases: ["MySql","PostgreSQL"],
-        Framework: ["Astro","React","Angular"]
-        CSS_Framework: ["Tailwind","Boostrap"]
-    },
-    funFact: "If there is an error in your program, assume it, you are on the right track."
-};
-```
+<!-- Tech Stack -->
+<h3 align="center">🛠️ Languages and Tools</h3>
 
-</p>
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="border: none;"><b>Frontend</b></td>
+    <td align="center" style="border: none;"><b>Backend</b></td>
+    <td align="center" style="border: none;"><b>Tools & DB</b></td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,astro,tailwind,bootstrap&theme=dark" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=python,java,c,php&theme=dark" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=vscode,mysql,postgres,git,github&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-<h3>Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-    <!-- Frameworks -->
-  <a href="https://astro.build/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <!-- CSS Frameworks -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-</p>
+<hr>
 
-<br></br>
-
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alejandroMortur&theme=github_dark&utcOffset=1" height="180" />
+<br />
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandroMortur&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandroMortur&bg_color=141321&color=fe428e&line=fe428e&point=f8d847&hide_border=true" alt="Activity Graph" />
 </p>
 
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" rowspan="2" style="border: none;">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alejandroMortur&theme=radical&hide_border=true&bg_color=141321&langs_count=8" alt="Top Languages" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://streak-stats.demolab.com?user=alejandroMortur&theme=radical&hide_border=true&bg_color=141321" alt="Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none;">
+      <!-- Using mirror sigma-five for stability -->
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alejandroMortur&show_icons=true&theme=radical&hide_border=true&bg_color=141321" alt="Github Stats" />
+    </td>
+  </tr>
+</table>
+
+<hr>
