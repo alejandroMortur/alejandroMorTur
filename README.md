@@ -35,8 +35,10 @@
 
 <!-- Banner 2 -->
 <div align="center" style="margin: 20px 0; overflow: hidden; border-radius: 10px;">
-  <img src="https://i.pinimg.com/originals/7f/d6/d3/7fd6d34e547b77a9531e2da6e7b6f060.gif" alt="Purple Aesthetic Coding" width="100%" style="width: 100%;  height:300px display: block; filter: brightness(0.9);" />
+  <img src="https://i.pinimg.com/originals/7f/d6/d3/7fd6d34e547b77a9531e2da6e7b6f060.gif" alt="Profile Logic" width="100%" style="width: 100%; height:300px; display: block; filter: brightness(0.9);" />
 </div>
+
+<br clear="all" />
 
 <div align="left" style="margin-top: 30px;">
   <a href="https://www.linkedin.com/in/alejandro-morón-turiel-9798b1299/" target="_blank">
