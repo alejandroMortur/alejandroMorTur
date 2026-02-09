@@ -6,7 +6,7 @@
 <!-- Intro & Profile Image -->
 <h3 style="color: #A960FF">👋 About Me</h3>
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Image" style="margin: 10px; border-radius: 10px;" />
+<img align="right" width="35%" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Image" style="margin: 10px; border-radius: 10px;" />
 
 <ul style="margin-top: 20px;">
   <li>🚀 <b style="color: #A960FF">Founder</b> in the making, building a startup in <i>Madrid</i>.</li>
@@ -20,7 +20,7 @@
 
 <h3 style="color: #A960FF">🧠 Technical Philosophy</h3>
 
-<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycjkyYngycm40aDZ5d2pjbTRhdTZzbmJ0bzNjbWphNzI3NTVpb2cwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9uI9QjE0xTQ4Us2ARS/giphy.gif" alt="Purple Aesthetic Coding" style="margin: 10px; border-radius: 10px;" />
+<img align="right" width="35%" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycjkyYngycm40aDZ5d2pjbTRhdTZzbmJ0bzNjbWphNzI3NTVpb2cwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9uI9QjE0xTQ4Us2ARS/giphy.gif" alt="Purple Aesthetic Coding" style="margin: 10px; border-radius: 10px;" />
 
 <p>
   Beyond code, I focus on <b style="color: #A960FF">how</b> I build things. For me, <b style="color: #A960FF">Web Accessibility (a11y)</b> isn't an afterthought; it's a foundation.
@@ -80,21 +80,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandroMortur&bg_color=141321&color=A960FF&line=A960FF&point=FFFFFF&hide_border=true" alt="Activity Graph" style="max-width: 100%;" />
 </p>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" rowspan="2">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alejandroMortur&hide_border=true&bg_color=141321&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" style="max-width: 100%;" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=alejandroMortur&hide_border=true&background=141321&ring=A960FF&currStreakLabel=A960FF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&fire=A960FF" alt="Streak Stats" style="max-width: 100%;" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <!-- Using mirror sigma-five for stability -->
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alejandroMortur&show_icons=true&hide_border=true&bg_color=141321&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="Github Stats" style="max-width: 100%;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alejandroMortur&hide_border=true&bg_color=141321&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" style="max-width: 100%;" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alejandroMortur&hide_border=true&background=141321&ring=A960FF&currStreakLabel=A960FF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&fire=A960FF" alt="Streak Stats" style="max-width: 100%;" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alejandroMortur&show_icons=true&hide_border=true&bg_color=141321&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="Github Stats" style="max-width: 100%;" />
+</p>
 
 <hr>
