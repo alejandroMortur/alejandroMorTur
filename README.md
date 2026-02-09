@@ -15,6 +15,8 @@
   <li>💜 <b style="color: #A960FF">Clean Code</b>, <b style="color: #A960FF">User Experience</b>, & <i>Purple</i>.</li>
 </ul>
 
+<br clear="all" />
+
 <!-- Banner 1 -->
 <div align="center" style="margin: 20px 0; max-height: 300px; overflow: hidden; border-radius: 10px;">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD1vMV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Logic" width="100%" style="width: 100%; height:300px; display: block; filter: brightness(0.9);" />
@@ -28,6 +30,8 @@
 <p>
   I design <b style="color: #A960FF">RESTful APIs</b> that are intuitive and robust, ensuring seamless communication between client and server. My commitment to <b style="color: #A960FF">Clean Code</b> principles ensures that what I write today is maintainable tomorrow.
 </p>
+
+<br clear="all" />
 
 <!-- Banner 2 -->
 <div align="center" style="margin: 20px 0; max-height: 200px; overflow: hidden; border-radius: 10px;">
