@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Hi!!%2C+I'm+AlexDev;Frontend Specialist;Accessibility+and+Performance;Open+Source+Enthusiast;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Hi!!%2C+I'm+AlexDev;Frontend+Specialist;Accessibility+and+Performance;Open+Source+Enthusiast;Always+Learning..." alt="Typing SVG" />
 </div>
 
 <!-- Intro & Profile Image -->
