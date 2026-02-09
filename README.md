@@ -89,10 +89,10 @@
 </p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 300px; max-width: 450px;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alejandroMortur&hide_border=true&bg_color=141321&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" style="width: 100%; border-radius: 10px;" />
   </div>
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 300px; max-width: 450px;">
     <img src="https://streak-stats.demolab.com?user=alejandroMortur&hide_border=true&background=141321&ring=A960FF&currStreakLabel=A960FF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&fire=A960FF" alt="Streak Stats" style="width: 100%; border-radius: 10px;" />
     <br/>
     <br/>
