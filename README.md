@@ -16,8 +16,8 @@
 
 <br clear="all" />
 
-<div align="center" style="margin-top: 20px; margin-bottom: 30px;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Logic" width="100%" style="width: 100%; display: block; border-radius: 10px;" />
+<div style="margin-top: 20px; margin-bottom: 30px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Logic" width="100%" style="width: 100%; height:200px ;display: block; border-radius: 10px;" />
 </div>
 
 <br clear="all" />
@@ -33,8 +33,8 @@
 
 <br clear="all" />
 
-<div align="center" style="margin-top: 20px; margin-bottom: 30px;">
-  <img src="https://i.pinimg.com/originals/7f/d6/d3/7fd6d34e547b77a9531e2da6e7b6f060.gif" alt="Purple Aesthetic Coding" width="100%" style="width: 100%; display: block; border-radius: 10px;" />
+<div  style="margin-top: 20px; margin-bottom: 30px;">
+  <img src="https://i.pinimg.com/originals/7f/d6/d3/7fd6d34e547b77a9531e2da6e7b6f060.gif" alt="Purple Aesthetic Coding" width="100%" style="width: 100%; display: block; border-radius: 10px; height:200px" />
 </div>
 
 <br clear="all" />
