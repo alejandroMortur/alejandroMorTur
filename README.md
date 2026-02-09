@@ -6,28 +6,36 @@
 <!-- Intro & Profile Image -->
 <h3 style="color: #A960FF">👋 About Me</h3>
 
-<img align="right" width="35%" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Image" style="margin: 10px; border-radius: 10px;" />
+<div style="float: left; width: 60%; min-width: 320px;">
+  <ul style="margin-top: 20px;">
+    <li>🚀 <b style="color: #A960FF">Founder</b> in the making, building a startup in <i>Madrid</i>.</li>
+    <li>📈 <b style="color: #A960FF">Kaizen</b> philosophy: <i>1% better every day</i>.</li>
+    <li>⚡ Driven by <b style="color: #A960FF">ambition</b> and <b style="color: #A960FF">product impact</b>.</li>
+    <li>💡 Creating <b style="color: #A960FF">scalable software</b> & <b style="color: #A960FF">innovative solutions</b>.</li>
+    <li>💜 <b style="color: #A960FF">Clean Code</b>, <b style="color: #A960FF">User Experience</b>, & <i>Purple</i>.</li>
+  </ul>
+</div>
 
-<ul style="margin-top: 20px;">
-  <li>🚀 <b style="color: #A960FF">Founder</b> in the making, building a startup in <i>Madrid</i>.</li>
-  <li>📈 <b style="color: #A960FF">Kaizen</b> philosophy: <i>1% better every day</i>.</li>
-  <li>⚡ Driven by <b style="color: #A960FF">ambition</b> and <b style="color: #A960FF">product impact</b>.</li>
-  <li>💡 Creating <b style="color: #A960FF">scalable software</b> & <b style="color: #A960FF">innovative solutions</b>.</li>
-  <li>💜 <b style="color: #A960FF">Clean Code</b>, <b style="color: #A960FF">User Experience</b>, & <i>Purple</i>.</li>
-</ul>
+<div style="float: right; width: 35%; min-width: 280px; text-align: right;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Image" style="margin: 10px; border-radius: 10px; width: 100%;" />
+</div>
 
 <br clear="all" />
 
 <h3 style="color: #A960FF">🧠 Technical Philosophy</h3>
 
-<img align="right" width="35%" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycjkyYngycm40aDZ5d2pjbTRhdTZzbmJ0bzNjbWphNzI3NTVpb2cwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9uI9QjE0xTQ4Us2ARS/giphy.gif" alt="Purple Aesthetic Coding" style="margin: 10px; border-radius: 10px;" />
+<div style="float: left; width: 60%; min-width: 320px;">
+  <p>
+    Beyond code, I focus on <b style="color: #A960FF">how</b> I build things. For me, <b style="color: #A960FF">Web Accessibility (a11y)</b> isn't an afterthought; it's a foundation.
+  </p>
+  <p>
+    I design <b style="color: #A960FF">RESTful APIs</b> that are intuitive and robust, ensuring seamless communication between client and server. My commitment to <b style="color: #A960FF">Clean Code</b> principles ensures that what I write today is maintainable tomorrow.
+  </p>
+</div>
 
-<p>
-  Beyond code, I focus on <b style="color: #A960FF">how</b> I build things. For me, <b style="color: #A960FF">Web Accessibility (a11y)</b> isn't an afterthought; it's a foundation.
-</p>
-<p>
-  I design <b style="color: #A960FF">RESTful APIs</b> that are intuitive and robust, ensuring seamless communication between client and server. My commitment to <b style="color: #A960FF">Clean Code</b> principles ensures that what I write today is maintainable tomorrow.
-</p>
+<div style="float: right; width: 35%; min-width: 250px; text-align: right;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycjkyYngycm40aDZ5d2pjbTRhdTZzbmJ0bzNjbWphNzI3NTVpb2cwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9uI9QjE0xTQ4Us2ARS/giphy.gif" alt="Purple Aesthetic Coding" style="margin: 10px; border-radius: 10px; width: 100%;" />
+</div>
 
 <br clear="all" />
 
