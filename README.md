@@ -8,7 +8,7 @@
 
 <img align="right" width="280" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Image" style="margin: 10px; max-width: 100%; margin-bottom: 30px;" />
 
-<ul>
+<ul style="margin-top: 30px; margin-bottom: 30px;">
   <li>🚀 transitioning from student to <b>Founder</b>, currently building my own startup in <i>Madrid</i>.</li>
   <li>📈 I follow the <b>Kaizen</b> philosophy: <i>continuous improvement</i>, 1% better every day.</li>
   <li>⚡ Driven by <b>ambition</b> and the desire to build <i>products that matter</i>.</li>
