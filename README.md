@@ -19,7 +19,7 @@
 
 <!-- Banner 1 -->
 <div align="center" style="margin: 20px 0; overflow: hidden; border-radius: 10px;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD1vMV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Logic" width="100%" style="width: 100%; height:300px; display: block; filter: brightness(0.9);" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD1vMV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Logic" width="100%" height="200px" style="display: block; filter: brightness(0.9);" />
 </div>
 
 <!-- Technical Philosophy -->
@@ -31,14 +31,14 @@
   I design <b style="color: #A960FF">RESTful APIs</b> that are intuitive and robust, ensuring seamless communication between client and server. My commitment to <b style="color: #A960FF">Clean Code</b> principles ensures that what I write today is maintainable tomorrow.
 </p>
 
-<br clear="all" />
+<br/>
 
 <!-- Banner 2 -->
 <div align="center" style="margin: 20px 0; overflow: hidden; border-radius: 10px;">
-  <img src="https://i.pinimg.com/originals/7f/d6/d3/7fd6d34e547b77a9531e2da6e7b6f060.gif" alt="Profile Logic" width="100%" style="width: 100%; height:300px; display: block; filter: brightness(0.9);" />
+  <img src="https://i.pinimg.com/originals/7f/d6/d3/7fd6d34e547b77a9531e2da6e7b6f060.gif" alt="Profile Logic" width="100%" height="200px" style="display: block; filter: brightness(0.9);" />
 </div>
 
-<br clear="all" />
+<br/>
 
 <div align="left" style="margin-top: 30px;">
   <a href="https://www.linkedin.com/in/alejandro-morón-turiel-9798b1299/" target="_blank">
