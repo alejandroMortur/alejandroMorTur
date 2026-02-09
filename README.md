@@ -7,7 +7,9 @@
 <!-- Intro & Profile Image -->
 <h3>👋 About Me</h3>
 
-<img align="right" width="280" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Image" />
+<img align="right" width="280" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Image" style="margin: 10px;" />
+
+<br>
 
 <ul>
   <li>🚀 transitioning from student to <b>Founder</b>, currently building my own startup in <i>Madrid</i>.</li>
