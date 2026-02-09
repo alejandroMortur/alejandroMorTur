@@ -14,8 +14,10 @@
   <li>💜 <b style="color: #A960FF">Clean Code</b>, <b style="color: #A960FF">User Experience</b>, & <i>Purple</i>.</li>
 </ul>
 
-<div style="margin-top: 20px; margin-bottom: 30px; width: 100%;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Logic" style="border-radius: 10px; width: 100%" />
+<br clear="all" />
+
+<div align="center" style="margin-top: 20px; margin-bottom: 30px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Logic" width="100%" style="width: 100%; display: block; border-radius: 10px;" />
 </div>
 
 <br clear="all" />
@@ -29,8 +31,10 @@
   I design <b style="color: #A960FF">RESTful APIs</b> that are intuitive and robust, ensuring seamless communication between client and server. My commitment to <b style="color: #A960FF">Clean Code</b> principles ensures that what I write today is maintainable tomorrow.
 </p>
 
-<div style="margin-top: 20px; margin-bottom: 30px; width: 100%;">
-  <img src="https://i.pinimg.com/originals/7f/d6/d3/7fd6d34e547b77a9531e2da6e7b6f060.gif" alt="Purple Aesthetic Coding" style="border-radius: 10px; width: 100%;" />
+<br clear="all" />
+
+<div align="center" style="margin-top: 20px; margin-bottom: 30px;">
+  <img src="https://i.pinimg.com/originals/7f/d6/d3/7fd6d34e547b77a9531e2da6e7b6f060.gif" alt="Purple Aesthetic Coding" width="100%" style="width: 100%; display: block; border-radius: 10px;" />
 </div>
 
 <br clear="all" />
