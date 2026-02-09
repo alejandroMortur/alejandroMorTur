@@ -23,11 +23,11 @@
   <a href="https://www.linkedin.com/in/alejandro-morón-turiel-9798b1299/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Morón%20Turiel-7938c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <br />
   <a href="mailto:moronturielalejandro@gmail.com">
     <img src="https://img.shields.io/badge/Email-moronturielalejandro%40gmail.com-7938c2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=alejandroMortur&style=flat-square&color=blueviolet" />
   <br />
   <br />
   <br />
@@ -44,14 +44,20 @@
 <!-- Tech Stack -->
 <h3 align="center">🛠️ Languages and Tools</h3>
 
+<br>
+
 <p align="center">
   <b>Frontend</b><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,astro,tailwind,bootstrap&theme=dark" />
-  <br/><br/>
-  <b>Backend</b><br/>
+</p>
+
+<p align="center">
+  <b>Backend</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Tools & DB</b>
+  <br/>
   <img src="https://skillicons.dev/icons?i=python,java,c,php&theme=dark" />
-  <br/><br/>
-  <b>Tools & DB</b><br/>
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode,mysql,postgres,git,github&theme=dark" />
 </p>
 
@@ -63,10 +69,21 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandroMortur&bg_color=141321&color=fe428e&line=fe428e&point=f8d847&hide_border=true" alt="Activity Graph" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alejandroMortur&theme=radical&hide_border=true&bg_color=141321&langs_count=8" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=alejandroMortur&theme=radical&hide_border=true&bg_color=141321" alt="Streak Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alejandroMortur&show_icons=true&theme=radical&hide_border=true&bg_color=141321" alt="Github Stats" />
-</div>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" rowspan="2">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alejandroMortur&theme=radical&hide_border=true&bg_color=141321&langs_count=8" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=alejandroMortur&theme=radical&hide_border=true&bg_color=141321" alt="Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Using mirror sigma-five for stability -->
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alejandroMortur&show_icons=true&theme=radical&hide_border=true&bg_color=141321" alt="Github Stats" />
+    </td>
+  </tr>
+</table>
 
 <hr>
