@@ -16,8 +16,8 @@
 
 <br clear="all" />
 
-<div align="center" style="margin-top: 20px; margin-bottom: 30px; max-height: 200px; overflow: hidden; border-radius: 10px;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD1vMV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Logic" width="100%" style="width: 100%; height:20%; display: block; filter: brightness(0.9);" />
+<div align="center" style="margin-top: 20px; margin-bottom: 30px; max-height: :300px; overflow: hidden; border-radius: 10px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN210Ym10dGlzenN5M29zcnI1ZHlybWNmYTBwaHQ2MmJueWcxbGJ6MiZlcD1vMV9naWZzX3NlYXJjaCZjdD1n/K3FuGJK1NSXSuOzntN/giphy.gif" alt="Profile Logic" width="100%" style="width: 100%; height:300px; display: block; filter: brightness(0.9);" />
 </div>
 
 <br clear="all" />
